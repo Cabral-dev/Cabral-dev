@@ -30,5 +30,5 @@ Olá! Me chamo Lucas e sou estudante de Engenharia de Software. Sou desenvolvedo
 **[Design Patterns Java](https://github.com/Cabral-dev/design-patterns-java)**
 
 ---
-📫 **Linkedin:**  
+### Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-cabral-piccolotto)
