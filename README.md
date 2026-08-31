@@ -25,10 +25,6 @@ Olá! Me chamo Lucas e sou estudante de Engenharia de Software. Sou desenvolvedo
 
 **[Bloqueador de Jogos](https://github.com/Cabral-dev/bloqueador-de-jogos)**
 
-**[Budgeting AI Springboot](https://github.com/Cabral-dev/budgeting-ai-spring-boot)**
-
-**[Design Patterns Java](https://github.com/Cabral-dev/design-patterns-java)**
-
 ---
 ### Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-cabral-piccolotto)
